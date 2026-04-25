@@ -7,6 +7,8 @@
 
 Uma aplicação web robusta e modular desenvolvida para o gerenciamento de agendamentos em estabelecimentos de beleza. O projeto simula um ambiente real de agendamento, permitindo a escolha de datas, verificação de disponibilidade de horários em tempo real e gestão de cancelamentos, aplicando conceitos avançados de modularização e integração com APIs.
 
+🔗 **[Acessar a aplicação online](https://devoliveir4.github.io/HairDay/)**
+
 ---
 
 ## 🎯 Funcionalidades
