@@ -10,7 +10,7 @@ export function hoursLoad({date, dailySchadules}) {
     hours.innerHTML = ""
 
     // Obtem a lista de horarios ocupados
-    const unavailableHours = dailySchadules.map((schedule) => dayjs(schedule.when).format("HH:mm"))
+    const unavailableHours = dailySchadules.map((schedule) => dayjs(schedule.when).format("H:mm"))
 
     const opening = openingHours.map((hour) => {
         // Recupera somente a hora
